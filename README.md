@@ -24,5 +24,9 @@
   <a href="https://www.instagram.com/ribinha_guimaraes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:ribinha740@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jos%C3%A9-de-ribamar-pcd/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+  
+  ![Snake animation](https://github.com/Ribinha740/Ribinha740/blob/output/github-contribution-grid-snake.svg)
+  
  </div>
 
